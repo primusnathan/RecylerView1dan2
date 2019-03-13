@@ -25,7 +25,7 @@ RecyclerView1
 
 ![alt text](https://github.com/primusnathan/RecylerView1dan2/blob/master/RecycleView1/SS/WhatsApp%20Image%202019-03-13%20at%202.36.46%20PM%20(1).jpeg)
 
-![alt text](https://github.com/primusnathan/RecylerView1dan2/blob/master/RecycleView1/SS/WhatsApp%20Image%202019-03-13%20at%202.36.46%20PM.jpeg)
+![alt text](https://github.com/primusnathan/RecylerView1dan2/blob/master/RecycleView1/SS/WhatsApp%20Image%202019-03-13%20at%202.36.46%20PM%20(2).jpeg)
 
 
 
